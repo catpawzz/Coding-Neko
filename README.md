@@ -1,5 +1,5 @@
 # Coding Neko
-In this app, you'll be able to find some coding snippets from my own snippet gallery :3 and where you'll be able to maybe
+In this app, you'll be able to find some coding snippets from my own snippet gallery :3 and where you'll be able to maybe find some inspiration
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2FINT7)
 
